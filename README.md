@@ -1,9 +1,7 @@
-# test_project
+# splendor
+gleam frontend library using [gleam vdom](https://github.com/JohnDoneth/gleam-vdom)
 
-[![Package Version](https://img.shields.io/hexpm/v/test_project)](https://hex.pm/packages/test_project)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/test_project/)
-
-A Gleam project
+## This is a work in progress, not useful yet as the gleam vdom library included needs updating and is missing core features
 
 ## Quick start
 
@@ -22,3 +20,4 @@ gleam add test_project
 ```
 
 and its documentation can be found at <https://hexdocs.pm/test_project>.
+

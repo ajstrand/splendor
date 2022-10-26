@@ -1,0 +1,7 @@
+*.beam
+*.ez
+build
+erl_crash.dump
+node_modules
+package-lock.json
+.DS_Store
